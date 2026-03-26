@@ -117,7 +117,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('https://img.freepik.com/premium-photo/main-currency-sign-world-map-include-dollar-yen-euro-pound-trading-forex-currency-exchange-concept-by-3d-render_50039-2812.jpg?w=360')`,
+        backgroundImage: `url('https://c4.wallpaperflare.com/wallpaper/403/467/730/technology-bitcoin-coin-money-wallpaper-preview.jpg')`,
       }}
     >
       <div className="w-full">
